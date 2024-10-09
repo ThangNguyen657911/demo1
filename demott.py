@@ -1,0 +1,1 @@
+print('thuyet trinh di')

@@ -1,0 +1,1 @@
+print('qua hay ho')
